@@ -1,0 +1,18 @@
+{
+
+    "theme_color": "#8936ff",
+    "background_color":"#2Ec6FE",
+    "icons":[
+       
+    ],
+
+    "orientation":"any",
+    "display": "standalone",
+    "dir":"auto",
+    "lang":"en-Us",
+    "name":"My app",
+    "short_name": " My app",
+    "start_url":"/index.html"
+}
+
+
